@@ -1,7 +1,10 @@
 # Git笔记
-## 基本概念
 
-假装修改一下
+完整的Git的使用方法和细节参见[git文档](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%85%B3%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6)，其目录如下图所示。
+
+![文档目录](image/doc.png)
+
+## 基本概念
 
 `Repository` 仓库，用于存放项目代码，每个项目对一个仓库
 `Fork` 复制克隆项目，该fork的项目是独立存在的
